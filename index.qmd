@@ -11,4 +11,4 @@ More about our group's research activity can be found on our [website](https://w
 This lab handbook is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Marta (m.farre-belmonte@kent.ac.uk) or make a pull request.
 
 
-The GitHub Pages of this lab handbook is forked from [website]((https://thefaylab.github.io/lab-manual/)).
+The GitHub Pages of this lab handbook is forked from [The Fay Lab]((https://thefaylab.github.io/lab-manual/)).
