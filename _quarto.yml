@@ -3,18 +3,18 @@ project:
   output-dir: _book
   
 book:
-  title: "Faylab Lab Manual"
-  author: "Gavin Fay & Ashleigh Novak"
+  title: "Farré Lab Handbook"
+  author: "Marta Farré"
   date: last-modified 
-  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  description: "This is the lab manual for the Farré Lab" 
   
   page-footer:
     left: |
-      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+      <a href="https://www.farre-evogenomicslab.com/">The Farré lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://thefaylab.github.io/lab-manual/
-  repo-url: https://github.com/thefaylab/lab-manual
+  site-url: https://farre-lab.github.io/lab-handbook/
+  repo-url: https://github.com/farre-lab/lab-handboook
   repo-actions: [edit,issue]
 
   chapters: 
@@ -25,14 +25,7 @@ book:
     - 04-onboarding.qmd
     - 05-expectations.qmd
     - 06-offboarding.qmd
-    - 07-funding.qmd
-    - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
-    - 11-computing.qmd
-    - 12-umassd-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
+    
 
 
 # not sure what the following line does; those files are present
