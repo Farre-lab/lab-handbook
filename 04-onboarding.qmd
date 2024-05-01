@@ -32,7 +32,7 @@ The necessary building access forms can be found at XXXXX.
 
 ### Ordering consumables and inventory
 
-Ordering at Stores is through the [NATS PowerApp] (https://apps.powerapps.com/play/e/16177b14-e9b4-4cb0-b585-cd48f7636b08/a/2fddd7e8-f3ce-40ed-85b4-f88bd3e37d1a?tenantId=51a9fa56-3f32-449a-a721-3e3f49aa5e9a&skipmetadata=true#)  
+Ordering at Stores is through the [NATS PowerApp](https://apps.powerapps.com/play/e/16177b14-e9b4-4cb0-b585-cd48f7636b08/a/2fddd7e8-f3ce-40ed-85b4-f88bd3e37d1a?tenantId=51a9fa56-3f32-449a-a721-3e3f49aa5e9a&skipmetadata=true)  
 
 Grant codes can be obtained from Marta and/or in the OneDrive Farre_lab_shared folder  
 
