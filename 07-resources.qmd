@@ -7,34 +7,34 @@ Here you can find links to external resources that might be useful during your t
 * Software carpentry [intro](http://swcarpentry.github.io/shell-novice/)
 * Software carpentry [extra](http://carpentries-incubator.github.io/shell-extras/)
 * [Bash for bioinformatics](http://omgenomics.com/bash-intro/)
-* General introduction (https://help.ubuntu.com/community/Beginners/BashScripting)
-* Very long detailed guide (https://guide.bash.academy/)
-* Very short intro (https://stackabuse.com/introduction-to-bash/)
+* General [introduction](https://help.ubuntu.com/community/Beginners/BashScripting)
+* Very long detailed [guide](https://guide.bash.academy/)
+* [Very short intro](https://stackabuse.com/introduction-to-bash/)
 * Long list of command line tools, some are [useful](http://tldp.org/LDP/GNU-Linux-Tools-Summary/html/GNU-Linux-Tools-Summary.html)
 
 
 ### Cheatsheets
 
-* (https://files.fosswire.com/2007/08/fwunixref.pdf)
-* (http://www.rain.org/~mkummel/unix.html)
+* [Cheatsheet 1](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* [Cheatsheet 2](http://www.rain.org/~mkummel/unix.html)
 
 
 ### Git version control
 
 * Software carpentry [beginner](http://swcarpentry.github.io/git-novice/)
-* Software carpentry using git with Rstudio (https://carpentries-incubator.github.io/git-Rstudio-course/)
+* Software carpentry [using git with Rstudio](https://carpentries-incubator.github.io/git-Rstudio-course/)
 
 ### Python programming
 
-* Software carpentry programming (http://swcarpentry.github.io/python-novice-inflammation/)
-* Software carpentry plotting (http://swcarpentry.github.io/python-novice-gapminder/)
-* Python for beginners video (https://www.youtube.com/watch?v=rfscVS0vtbw)
-* Official Python Tutorial (https://docs.python.org/3/tutorial/index.html)
+* Software carpentry [programming](http://swcarpentry.github.io/python-novice-inflammation/)
+* Software carpentry [plotting](http://swcarpentry.github.io/python-novice-gapminder/)
+* [Python for beginners video](https://www.youtube.com/watch?v=rfscVS0vtbw)
+* [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 * [LearnPython.org](https://www.learnpython.org/)
 
 ### R  programming
 
-* Software carpentry programming with R (http://swcarpentry.github.io/r-novice-inflammation/)
-* Software carpentry R for scientific analysis (http://swcarpentry.github.io/r-novice-gapminder/)
+* [Software carpentry programming with R](http://swcarpentry.github.io/r-novice-inflammation/)
+* [Software carpentry R for scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/)
 
 
