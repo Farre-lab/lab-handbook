@@ -1,0 +1,41 @@
+---
+bibliography: references.bib
+---
+
+# Introduction {#intro}
+
+We conduct our work using Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\
+
+
+See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:
+
+- Our path to better science in less time using open data science tools [@lowndes2017]
+- Good enough practices in scientific computing [@wilson2017]
+
+
+## The Basics
+
+This section covers the practicalities of working in the Farré lab.
+
+
+### How we stay in contact
+
+The Farré lab has a Slack workspace (EvoGenomics) and we mainly communicate in Slack. Because the University favoured Teams, sometimes we hold meetings in Teams when they are with other groups.
+
+Please install both software in your workstations.
+
+
+### Lab meetings and Journal Clubs
+
+Lab meetings are on Monday afternoon and in person. Unless on holidays or ill, everybody in the lab is expected to attend. Members of the lab discuss the research of the previous week and talk about the work they'll be doing during the week.
+These lab meetings are very informal, but expect to be questioned about your progress. 
+
+Once per month, during these lab meetings, we do a journal club. One member of the lab will present a paper previously agreed with the PI. All members are expected to have read the paper and engange in the discussion.
+
+
+### How we share things
+
+We use OneDrive. Once you join the lab, you will be allocated a personal OneDrive and invited to the Farre_lab_shared folder. Please make sure you have access as it contains important documentation for you.
+
+## References
+
