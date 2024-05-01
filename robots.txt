@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://farre-lab.github.io/lab-handbook/sitemap.xml
