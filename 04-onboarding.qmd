@@ -28,7 +28,7 @@ Lab meetings are held in Ingram 316.
 ### Key card building & room access
 
 Access to the Stacey building, and to individual lab spaces within the building is through your UoK Pass keycard. Typically, you will have access to the the building and both lab spaces.  
-The necessary building access forms can be found at XXXXX.  
+The necessary building access forms can be found at XXXXX. Building access can be requested from NATS Tech - natstech@kent.ac.uk
 
 ### Ordering consumables and inventory
 
@@ -38,4 +38,36 @@ There are extensive user guides of the system in the [NATS Science Supplies Shar
 
 Grant codes can be obtained from Marta and/or in the OneDrive Farre_lab_shared folder  
 
+### Wet lab space
 
+Our current wet lab is shared with other groups and can be found in S227. We also have access to facilities in S222. 
+
+There are dedicated bench spaces both for pre- and post-PCR work. Lab space should be kept clean and tidy.
+
+#### Technical Services (Stacey):
+
+Clean glassware/measuring cylinders/etc. can be collected here. Dirty glassware (washed and labels removed) should be brought down in the green boxes. Biohazard waste also disposed here.
+
+MilliQ water is available from the Technical Services office. 
+
+The team are very friendly and will be happy to help and advice if needed!
+
+#### Waste:
+
+Biohazard waste should be disposed of when half full or at the end of every week. This can be taken down to Techinal Servies and placed into the metal bins. 
+
+Biohazard waste containing small quantities of hazardous chemical waste (e.g. tips and Eppendorf tubes with phenol:chloroform) should be placed into a small biohazard waste bag or empty plastiware in the fume hood, sealed, and then placed inside a larger biohazard bag for disposal. It is best practice to inform Technical Services of this waste when disposing.
+
+#### Lab coats:
+
+Clean lab coats can be found in S226. Dirty lab coats can be placed in SGXX for washing, and then collected from the lockers.
+
+#### Other spaces
+
+The tissue culture room is found in S119, -80 freezers in IGXX, PromethION in I2XX, gel doc in S2XX, and liquid nitrogen in I4XX.
+
+#### Sample storage and database
+
+Samples should be stored in the appropriate fridge/freezer space, and the location detailed in the database. Training is required to access samples stored in the liquid nitrogen tanks.
+
+The database of samples can be found on the shared OneDrive.
